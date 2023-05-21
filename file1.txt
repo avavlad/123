@@ -1,4 +1,6 @@
 git init -> inicjalizacja nowego repozytorium
 git status -> to check changes
 git add filename.txt -> dodanie pliku do stagging area
+git add . -> dodaje wszytskie pliki do stagging area 
+git log -> pokazuje historię commitów 
 git commit -m "commit message" -> żeby zrobić commit w repo dla weryfikacji zmian
