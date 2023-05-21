@@ -8,4 +8,6 @@ git checkout hash -> przejść na pewien commit
 git diff has1 hash2 filaname.txt -> przeglądanie różnic pomiędzy zmianami (commitami)
 https://docs.google.com/spreadsheets/d/1qZXWmAEW7-DWoc8eAqSrtsSdRXcuAOQi/edit#gid=352517575
 changes in branch 2
-second change in branch2
+changes in branch 3
+changes in branch 4
+zmiana123
